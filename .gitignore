@@ -1,0 +1,3 @@
+.env
+*.class
+go.sum
